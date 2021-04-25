@@ -6,7 +6,7 @@ tgif project: Intel Neural Compute Stick 2 and Raspberry Pi detect faces
 #
 
 > Hi.  This is Steve Depp.  This is going to serve as my demo video 5 and my 50% update for my final project, all in one.  For my final project, I will be constructing a Donkey car, a robot car, and then having it read American Sign Language as it moves hopefully.  I’m not going to cover the set up of the Raspberry Pi in this video.  I have to say that it’s fairly easy.  I will touch upon things that were difficult.  
-Here I am SSH’ing into the Raspberry Pi which is now headless.
+Here I am ssh’ing into the Raspberry Pi which is now headless.
 
 ### Steve Depp    
 ### 462-55 / DV5    
