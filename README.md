@@ -110,8 +110,8 @@ Build the object detection sample
 ### Build / Run Face detection model (cont)    
 
 **Download a pre-trained face detection model:**     
-    - [x] bin with weights    
-    - [x] xml with network topology  
+- [x] bin with weights    
+- [x] xml with network topology  
 
 <img width="627" alt="4521, 104 107 21 37" src="https://user-images.githubusercontent.com/38410965/116009768-6a0afc80-a5e9-11eb-9b3a-b40364cee974.png">
 
@@ -136,8 +136,8 @@ https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md
 ### Build / Run Face detection model (do over)    
 
 **Download a pre-trained face detection model:**     
-    - [x] bin with weights    
-    - [x] xml with network topology    
+- [x] bin with weights    
+- [x] xml with network topology    
 
 <img width="680" alt="pi@raspberrypi ~projectsbuild" src="https://user-images.githubusercontent.com/38410965/116009797-8018bd00-a5e9-11eb-9072-c0d88a9d7277.png">
 
